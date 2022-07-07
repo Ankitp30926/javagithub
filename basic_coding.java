@@ -7,3 +7,11 @@ class HelloWorldTest
          System.out.println("Hello world");
      }
 }
+
+
+
+class addition{
+
+    char num1='x' , num2='y';
+    char add='0';
+}
